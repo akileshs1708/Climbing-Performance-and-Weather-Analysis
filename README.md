@@ -48,7 +48,7 @@ The dataset contains climbing success percentages alongside environmental factor
 
 - **climbing_statistics.csv**: Climbing success data.
 - **Rainier_Weather.csv**: Weather data, including temperature, humidity, wind speed, and solar radiation.
-- **Climbing_Performance_Weather_Analysis.R**: R script containing the full analysis.
+- **Mount Rainier climbing and weather 23PD02, 23PD06, 23PD33.R**: R script containing the full analysis.
 
 ---
 
