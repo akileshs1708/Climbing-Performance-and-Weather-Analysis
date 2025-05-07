@@ -61,7 +61,7 @@ The dataset contains climbing success percentages alongside environmental factor
 
 2. **Load Data**: Place the `climbing_statistics.csv` and `Rainier_Weather.csv` files in your working directory or adjust the paths in the R script accordingly.
 
-3. **Run the Script**: Run the `Climbing_Performance_Weather_Analysis.R` script in RStudio or any R environment.
+3. **Run the Script**: Run the `Mount Rainier climbing and weather 23PD02, 23PD06, 23PD33.R` script in RStudio or any R environment.
 
 ---
 
